@@ -6,6 +6,7 @@ I'm interested in systems programming, operating systems, and Unix-like tools.
 
 My primary languages are **C**, **C++**, **Perl**, and **Bash**.
 
-I don't actively use GitHub. Most of my work is hosted on my Forgejo instance, it also contains some repositories mirrors I'm interested in.
+I don't actively use GitHub. Most of my work is hosted on my GitLab and Forgejo instances. Forgejo primarly contains repository mirrors I'm interested in. These forges are hosted on my own server. 
 
-**Forgejo:** http://forgejo.scrubylev.ru
+- **GitLab:** http://gitlab.scrubylev.ru 
+- **Forgejo:** http://forgejo.scrubylev.ru
